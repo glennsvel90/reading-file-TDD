@@ -1,3 +1,4 @@
 [
-  "TestDoubles_Tests.py::test_canCallReadFromFile"
+  "TestDoubles_Tests.py::test_returnsCorrectString",
+  "TestDoubles_Tests.py::test_throwsExceptionWithBadFile"
 ]
